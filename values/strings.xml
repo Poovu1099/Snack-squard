@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SnackOrdering</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_registeration">RegisterationActivity</string>
+    <string name="title_activity_main_page">MainPage</string>
+    <string name="title_activity_target">TargetActivity</string>
+    <string name="title_activity_admin">AdminActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="title_activity_mainpage">Mainpage</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
