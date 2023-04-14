@@ -1,0 +1,50 @@
+﻿                                                                         Snack ordering
+
+
+Introduction:
+          Overview:
+                         A project that demonstrates the use of android jetpact               compose to build a UI for a snack squad app. Snack squad is a sample project build using the android compose UI toolkit. It demonstrates how to create a simple e-commerce app for snacks using the compose libraries. The user can see a list of snacks, and by tapping on the ”Add to Cart” button, the snack will be added to the cart.
+              Purpose:
+    • It is very useful and important app this mobile.
+    • This application will be supported to lay of version.
+    • Easy order and free delivery.
+Problem definition & Design thinking:
+             Empathy Map:
+                  
+
+
+    Ideation & Brainstorming map:
+
+     
+
+
+
+
+
+
+
+
+
+
+
+
+
+Result:
+
+
+
+Advantages & Disadvantages:
+    • Very easy to order
+    • First order free delivery
+    • Which place to delivery
+    • Snacks are pure and hygienic
+    • Only cash payment
+    • Net banking and ubi not allowed
+Application:
+    • Different types snack.
+    • Delivery location checking
+    • Quick order
+    • Upi payment method.
+Conclusion:
+                 It is very useful application of this world. This app provide to Verity of snack at the time. Very fastest delivery and first delivery is free. So all of these use this application to enjoy these world.
+                   
